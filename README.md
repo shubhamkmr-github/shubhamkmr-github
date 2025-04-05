@@ -79,14 +79,3 @@ I'm a final year Computer Science and Engineering student passionate about backe
   </a>
 </div>
 
----
-
-<!-- You can add a section like this to showcase projects -->
-### 🏆 Featured Projects
-
-*Coming soon! Working on some exciting projects to showcase here.*
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkmr&style=flat-square&color=blue" alt="Profile views" />
-</div>
