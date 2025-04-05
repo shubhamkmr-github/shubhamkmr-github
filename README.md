@@ -54,7 +54,14 @@ I'm a final year Computer Science and Engineering student passionate about backe
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkmr&theme=dark" alt="GitHub Streak Stats" />
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmr&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkmr&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -78,4 +85,6 @@ I'm a final year Computer Science and Engineering student passionate about backe
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
+
+---
 
