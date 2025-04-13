@@ -55,13 +55,13 @@ I'm a final year Computer Science and Engineering student passionate about backe
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkmr&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkmr-github&theme=dark" alt="GitHub Streak Stats" />
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmr&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkmr-github&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkmr&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkmr-github&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -87,4 +87,3 @@ I'm a final year Computer Science and Engineering student passionate about backe
 </div>
 
 ---
-
