@@ -78,7 +78,7 @@ I'm a final year Computer Science and Engineering student passionate about backe
   <a href="https://instagram.com/shubham_k29">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/shubham_k29/">
+  <a href="https://leetcode.com/u/Shubhamkmrbhardwaj/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/shubhamkmrbhardwaj/">
